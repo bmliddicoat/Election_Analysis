@@ -6,7 +6,7 @@ The clients, Seth and Tom, originally asked for the election audit of which woul
 
 ## Election-Audit Results
 
-! [alt txt] ()
+! [alt text](https://github.com/bmliddicoat/Election_Analysis/blob/main/Resources/Election_Results_Screenshot.png?raw=true0
 
 * Total votes cast were 368,711. 
     * Code used: 
